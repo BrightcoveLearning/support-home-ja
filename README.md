@@ -1,1 +1,1 @@
-# support-home-ja
+# brightcove docs-support-home
